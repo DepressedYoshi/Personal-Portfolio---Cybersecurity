@@ -7,7 +7,13 @@ With seven years of coding expertise and exceptional teamwork communication skil
 
 
 
+## Repoert activityes 
+https://docs.google.com/document/d/1YY3HAa_tuoPOdeHVwW5Rf8IIw-IvyaWc3ZCgMw6sIG0/edit?usp=sharing&resourcekey=0-fVZLxOiz79annGbYENu27A
 
+https://docs.google.com/document/d/1_P5yJhFgJxC9CAYU7IdoxPYdO50aPY1R-lMym4cG6hY/edit?usp=sharing
+
+## OS hardening Acticity 
+https://docs.google.com/document/d/1sBiI7NMATiPvERoaB_VRqWQxmBQb1QiVo8cu6G6zIQs/edit?usp=sharing&resourcekey=0-t5wtnXbWZ0p81Iyitmlxag
 
 
 
