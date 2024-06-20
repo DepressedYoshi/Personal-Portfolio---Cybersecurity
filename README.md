@@ -15,5 +15,6 @@ https://docs.google.com/document/d/1_P5yJhFgJxC9CAYU7IdoxPYdO50aPY1R-lMym4cG6hY/
 ## OS hardening Acticity 
 https://docs.google.com/document/d/1sBiI7NMATiPvERoaB_VRqWQxmBQb1QiVo8cu6G6zIQs/edit?usp=sharing&resourcekey=0-t5wtnXbWZ0p81Iyitmlxag
 
-
+## network hardening activity 
+https://docs.google.com/document/d/1k78eUCcHuysprpJrHUgLYl9HSl_ey6qr83w8fajJU7Y/edit?usp=sharing&resourcekey=0-O8CLB87Z_36E_HdhODaf2Q
 
