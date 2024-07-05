@@ -20,3 +20,6 @@ https://docs.google.com/document/d/1k78eUCcHuysprpJrHUgLYl9HSl_ey6qr83w8fajJU7Y/
 ## incident report 
 https://docs.google.com/document/d/1R7PufqI0JII9tcf3mW1Q_ACEiTDKlB0Iw32rSSjp3wo/edit?usp=sharing
 
+
+## Linux - File permission #1
+https://docs.google.com/document/d/19vFmxCeEtEJaoeTOMfgBa00ZJv-MXu0UB-HCWc2d5Ig/edit?usp=sharing
