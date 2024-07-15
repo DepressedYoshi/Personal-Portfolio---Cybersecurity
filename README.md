@@ -23,3 +23,6 @@ https://docs.google.com/document/d/1R7PufqI0JII9tcf3mW1Q_ACEiTDKlB0Iw32rSSjp3wo/
 
 ## Linux - File permission #1
 https://docs.google.com/document/d/19vFmxCeEtEJaoeTOMfgBa00ZJv-MXu0UB-HCWc2d5Ig/edit?usp=sharing
+
+## SQL
+https://docs.google.com/document/d/15REp4MX47x1WK_53To1bGagKVPtmmuhXdgIQ7wIAk0s/edit?usp=sharing
